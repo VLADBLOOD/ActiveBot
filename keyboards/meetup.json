@@ -1,0 +1,47 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Текст встречи"
+      },
+      "color": "primary"
+    }],
+   [{
+      "action": {
+        "type": "text",
+        "label": "День встречи"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Время встречи"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Тип мяча"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Опубликовать"
+      },
+      "color": "positive"
+    },
+    {
+      "action": {
+        "type": "text",
+        "label": "Отменить"
+      },
+      "color": "negative"
+    }]
+  ]
+}

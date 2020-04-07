@@ -1,0 +1,26 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "&#9917; Футбольный мяч"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "&#127936; Баскетбольный мяч"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "&#127952; Волнейбольный мяч"
+      },
+      "color": "primary"
+    }]
+  ]
+}
